@@ -1,0 +1,16 @@
+{
+  "name": "sailthru-bulk-send-api",
+  "version": "1.0.0",
+  "description": "API Endpoint that handles bulk sending of emails thru Sailthru.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordan Falcon",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "sailthru-client": "^5.0.0"
+  },
+  "type": "module"
+}

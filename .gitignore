@@ -105,6 +105,6 @@ dist
 
 .vscode/
 
-jfalcon_test.csv
+*.csv
 
 .DS_Store
